@@ -8,5 +8,5 @@ These instructions will get you a copy of the project up and running on your loc
 You'll need to get the following installed:
 ```
 WAMP or any LAMP solution (Apache, MySQL, PHP)
-Microsoft Power BI Desktop x64
+Microsoft Power BI Desktop (free)
 ```
